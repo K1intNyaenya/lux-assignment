@@ -53,4 +53,4 @@ All queries use the following database:
 CREATE DATABASE assignment;
 \c assignment
 
-psql -U your_user -d assignment -f assignment.sql
+psql -U your_user -d assignment -f sales_sd.sql
